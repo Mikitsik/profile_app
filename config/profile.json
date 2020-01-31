@@ -1,14 +1,14 @@
 {
-  "location": "",
-  "email": "",
-  "goal": "",
-  "programming_languages": "",
-  "current_job": "",
-  "laptop": "",
-  "english": "",
-  "education": "",
-  "phone_number": "",
-  "age": 0,
-  "past_job_experience": "",
-  "url_to_repo": ""
+  "location": "Minsk",
+  "email": "mikitsik@gmail.com",
+  "goal": "i wanna know how it works",
+  "programming_languages": "ruby, js",
+  "current_job": "searching in progress",
+  "laptop": "yes",
+  "english": "b1",
+  "education": "economic college, BSUIR(not graduated), APAP(not graduated)",
+  "phone_number": "+375293655228",
+  "age": 40,
+  "past_job_experience": "visudi",
+  "url_to_repo": "https://github.com/mikitsik/profile_app"
 }
