@@ -52,7 +52,7 @@ jobs:
       enabled: true
     working_directory: ~/profile_app
     environment:
-      HEROKU_APP: ""
+      HEROKU_APP: "zadeploy-profile-app"
     steps:
       - checkout
       - run: git push https://heroku:$HEROKU_API_KEY@git.heroku.com/$HEROKU_APP.git master
